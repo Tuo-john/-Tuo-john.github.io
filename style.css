@@ -1,0 +1,85 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:14px ;
+    background-color: dimgray;
+    margin: 0px;
+    padding: 0px;
+}
+
+#header{
+     text-align: center;  
+font-size:1.5em ;
+color: red;
+background-color: darkslategray;
+margin: 5px 5px ;
+border:1px solid black ;
+border-radius: 10px;
+height: 120px;
+}
+
+#B_logo{
+margin-top: 10px; 
+}
+#a_head{
+    color:#f19109 ;
+    font-weight: bolder;
+    font-size: 24px;
+}
+
+#navbar{
+font-size:1.2em ;
+
+color: red;
+background-color: darkslategray;
+margin: 5px 5px ;
+border:1px solid black ;
+border-radius: 10px;
+height: 60px;
+} 
+
+#navbar ul{
+    text-align: center;
+    list-style: none;
+}
+
+#navbar ul li{
+   display: inline;
+   margin: 5px 50px;
+ 
+}
+#navbar ul li a:link{
+    color:#f19109 ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    text-decoration: none;
+    background-color: rgb(58, 119, 119);
+    border: solid #f19109 1px;
+    border-radius: 10px;
+    padding: 10px;
+   
+}#navbar ul li a:hover{
+    color:#f19109 ;
+   background-color: darkslategray;
+}
+
+
+.main{
+font-size:1.5em ;
+text-align: center;
+color: red;
+background-color: darkslategray;
+margin: 5px 5px ;
+border:1px solid black ;
+border-radius: 10px;
+}
+
+#footer{
+font-size:1.5em ;
+text-align: center;
+color: red;
+background-color: darkslategray;
+margin: 5px 5px ;
+border:1px solid black ;
+border-radius: 10px;
+
+}
